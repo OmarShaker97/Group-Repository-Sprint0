@@ -26,7 +26,7 @@ Omar Shaker
 
 ```
 Omar Labib
-  I am a computer science student, pursuing a bachelor in computer science. Also a passionate crossfit athlete. 
+  I am a computer science student, pursuing a bachelor in computer science. A passionate crossfit athlete. 
 ```
 
 ```
