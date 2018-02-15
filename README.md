@@ -9,7 +9,11 @@ Sprint 0
 
 ## Getting Started
 
+
 This is a introductory project that ensures that we can use github and its features as this will be important to our sprint.
+
+
+
 
 ### Authors
 
