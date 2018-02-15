@@ -11,7 +11,7 @@ Sprint 0
 
 This is a introductory project that ensures that we can use github and its features.
 
-### Authors
+### Authors.
 
 Omar Labib 37-0487, Omar Shaker 37-2403, Mayar Lotfy 37-4473, Youhanna Wahba 37-14779
 
