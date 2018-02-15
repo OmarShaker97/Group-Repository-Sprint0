@@ -30,14 +30,16 @@ Omar Labib
 ```
 
 ```
+Youhanna Wahba
+  GUC Computer Science Student. My interests are music and mandala drawing. I have a dream to be a successful man n my business.
+```
+
+```
 Mayar Lotfy
   Computer science and Engineering student at the German University in Cairo. Archery Player.
 ```
 
-```
-Youhanna Wahba
-  GUC Computer Science Student. My interests are music and mandala drawing. I have a dream to be a successful man n my business.
-```
+
 
 
 
