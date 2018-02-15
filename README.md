@@ -9,11 +9,19 @@ Sprint 0
 
 ## Getting Started
 
-This is a introductory project that ensures that we can use github and its features.
+
+This is a introductory project that ensures that we can use github and its features as this will be important to our sprint.
+
+
+
 
 ### Authors.
 
+<<<<<<< HEAD
 Omar Labib 37-0487, Omar Shaker 37-2403,Youhanna Adel 37-14779, Mayar Lotfy 37-4473 
+=======
+Omar Labib 37-0487,Omar Shaker 37-2403,  Mayar Moustafa 37-4473, Youhanna Wahba 37-14779.
+>>>>>>> 7e8138e63f3561a388184401522eec8a0d5cc217
 
 ### About
 
