@@ -17,11 +17,14 @@ This is a introductory project that ensures that we can use github and its featu
 
 ### Authors.
 
-<<<<<<< HEAD
+
 Omar Labib 37-0487, Omar Shaker 37-2403,Youhanna Adel 37-14779, Mayar Lotfy 37-4473 
 =======
 Omar Labib 37-0487,Omar Shaker 37-2403,  Mayar Moustafa 37-4473, Youhanna Wahba 37-14779.
->>>>>>> 7e8138e63f3561a388184401522eec8a0d5cc217
+
+=======
+Omar Shaker 37-2403,  Mayar Moustafa 37-4473,Omar Labib 37-0487, Youhanna Wahba 37-14779.
+
 
 ### About
 
@@ -38,8 +41,13 @@ Omar Labib
 ```
 
 ```
+
 Youhanna Wahba
   GUC Computer Science Student. My interests are music and mandala drawing. I have a dream to be a successful man n my business.
+=======
+Mayar Lotfy
+  Computer science and Engineering student at the German University in Cairo. i'm also an Archery Player.
+
 ```
 
 ```
