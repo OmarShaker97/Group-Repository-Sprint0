@@ -31,7 +31,7 @@ Omar Labib
 
 ```
 Mayar Lotfy
-  Computer science and Engineering student at the German University in Cairo. Archery Player.
+  Computer science student at the German University in Cairo. Archery Player.
 ```
 
 ```
