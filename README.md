@@ -13,7 +13,7 @@ This is a introductory project that ensures that we can use github and its featu
 
 ### Authors.
 
-Omar Labib 37-0487, Omar Shaker 37-2403, Mayar Lotfy 37-4473, Youhanna Wahba 37-14779
+Omar Labib 37-0487, Omar Shaker 37-2403, Mayar Lotfy 37-4473, Youhanna Adel 37-14779
 
 ### About
 
